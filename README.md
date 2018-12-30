@@ -34,4 +34,9 @@ Extensive list of cyber security podcasts with links to iTunes, Google Play, Sou
 | [Exploring Information Security](http://www.timothydeblock.com/eis/) | EN       | [iTunes](https://itunes.apple.com/us/podcast/eis-podcast-timothy-de-block/id1026428940) |                                                              |                                                              |                                                              |
 | [Hackable?](https://hackablepodcast.com/#/)                  | EN       | [iTunes](https://itunes.apple.com/us/podcast/hackable/id1257232208?mt=2) | [Google Play Music](https://www.google.com/podcasts?feed=aHR0cDovL2ZlZWRzLmhhY2thYmxlcG9kY2FzdC5jb20vaGFja2FibGU%3D) |                                                              | [Spotify](https://open.spotify.com/show/77s2POytwHIUGHZHKS01Ct) |
 | [Inside Threat Intelligence](https://www.recordedfuture.com/resources/podcasts/) | EN       | [iTunes](https://itunes.apple.com/fi/podcast/recorded-future-inside-threat-intelligence-for-cyber/id1225077306?mt=2) | [Google Play Music](https://play.google.com/music/listen?authuser#/ps/Ihv73gnimgyuhobalrvegvhk6te) |                                                              |                                                              |
+
 Language codes: ISO 639-1.
+
+## Contributing
+
+Pull requests are welcome: see [contributing](./CONTRIBUTING.md).
